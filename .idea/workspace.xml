@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcd58179-a3d6-4fcf-900a-3a0758afe0ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Gerenciador_de_Projetos_e_Equipes_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gerenciador de Projetos e Equipes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-j-9.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/EquipeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/ProjetoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/TarefaDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/UsuarioDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/ConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/TesteConexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Equipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Projeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Tarefa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/UsuarioDAOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TelaCadastroEquipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TelaCadastroProjeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TelaCadastroTarefa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TelaCadastroUsuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TelaListagemProjetos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TelaLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TelaPrincipal.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="32nzT9oeejY4Ik8JHioLh01vocF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TelaCadastroEquipe.executor": "Run",
+    "Application.TelaCadastroProjeto.executor": "Coverage",
+    "Application.TelaCadastroTarefa.executor": "Run",
+    "Application.TelaCadastroUsuario.executor": "Run",
+    "Application.TelaLogin (1).executor": "Run",
+    "Application.TelaLogin.executor": "Run",
+    "Application.TelaPrincipal.executor": "Run",
+    "Application.TesteConexao.executor": "Run",
+    "Application.TesteListarUsuarios.executor": "Run",
+    "Application.UsuarioDAO.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.preview.features.used": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/pablo/IdeaProjects/Gerenciador de Projetos e Equipes",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TelaLogin">
+    <configuration name="TelaCadastroTarefa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.TelaCadastroTarefa" />
+      <module name="Gerenciador de Projetos e Equipes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelaCadastroUsuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.TelaCadastroUsuario" />
+      <module name="Gerenciador de Projetos e Equipes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelaLogin (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.TelaLogin" />
+      <module name="Gerenciador de Projetos e Equipes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelaLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.TelaLogin" />
+      <module name="Gerenciador de Projetos e Equipes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelaPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.TelaPrincipal" />
+      <module name="Gerenciador de Projetos e Equipes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TelaLogin" />
+        <item itemvalue="Application.TelaCadastroUsuario" />
+        <item itemvalue="Application.TelaCadastroTarefa" />
+        <item itemvalue="Application.TelaPrincipal" />
+        <item itemvalue="Application.TelaLogin (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcd58179-a3d6-4fcf-900a-3a0758afe0ab" name="Changes" comment="" />
+      <created>1758071130810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758071130810</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Gerenciador_de_Projetos_e_Equipes$TelaCadastroUsuario.ic" NAME="TelaCadastroUsuario Coverage Results" MODIFIED="1758672346452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>

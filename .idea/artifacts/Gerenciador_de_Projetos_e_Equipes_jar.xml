@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Gerenciador de Projetos e Equipes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gerenciador_de_Projetos_e_Equipes_jar</output-path>
+    <root id="archive" name="Gerenciador de Projetos e Equipes.jar">
+      <element id="module-output" name="Gerenciador de Projetos e Equipes" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/mysql-connector-j-9.4.0.zip" />
+    </root>
+  </artifact>
+</component>
