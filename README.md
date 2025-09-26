@@ -33,7 +33,7 @@ A arquitetura do sistema foi projetada para ser robusta e organizada, seguindo p
 A base do sistema é um banco de dados relacional que garante a integridade dos dados.
 
 
-![Diagrama do Banco de Dados](Diagrama de dados.png)
+![Diagrama do Banco de Dados]([Diagrama de dados.png](https://github.com/PabloHSB/Gerenciador-de-Projetos-e-Equipes/blob/master/Diagrama%20de%20dados.png?raw=true))
 
 ## 🚀 Como Executar o Projeto
 
