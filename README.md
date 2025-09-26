@@ -32,8 +32,8 @@ A arquitetura do sistema foi projetada para ser robusta e organizada, seguindo p
 
 A base do sistema é um banco de dados relacional que garante a integridade dos dados.
 
-*(Instrução: Faça o upload da imagem do seu diagrama para o repositório do GitHub e substitua o link abaixo pelo link da sua imagem)*
-![Diagrama do Banco de Dados](link_para_sua_imagem_do_diagrama.png)
+
+![Diagrama do Banco de Dados]([link_para_sua_imagem_do_diagrama.png](https://1drv.ms/i/c/e5215d133a5a3e62/EfF0DFJ3HOJAgvtaZymzLFUBV79ulhvme5tIr_7rUIbkzQ?e=WtVpw6))
 
 ## 🚀 Como Executar o Projeto
 
